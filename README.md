@@ -117,19 +117,20 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![image](https://github.com/naren2704/Image_Acqusition-_using_Web_Camera/assets/118706984/f906a1cb-cf46-4030-a28e-bf5cc77a929f)
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/63fe1cbf-1bf2-488b-8038-9d0512c24c7f" />
+
 
 ### ii) Display the video
-![image](https://github.com/naren2704/Image_Acqusition-_using_Web_Camera/assets/118706984/822d6ddf-6a26-49c9-9cb9-2afd3906befd)
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/0ffb804e-5484-4c36-8e38-8e78c7087b7e" />
+
 
 
 ### iii) Display the video by resizing the window
-![image](https://github.com/naren2704/Image_Acqusition-_using_Web_Camera/assets/118706984/83a82964-ae7a-4b17-a8f1-4b47c04d7479)
-
+<img width="162" height="296" alt="image" src="https://github.com/user-attachments/assets/1ea9b0f4-6fe2-48fd-b7f2-778d09834197" />
 
 
 ### iv) Rotate and display the video
-![image](https://github.com/naren2704/Image_Acqusition-_using_Web_Camera/assets/118706984/8ef3211f-ca98-4516-b116-b0fdcfbbf698)
+<img width="597" height="785" alt="image" src="https://github.com/user-attachments/assets/41ea4b63-355f-4590-bc67-b93588e4b918" />
 
 
 
